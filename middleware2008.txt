@@ -1,0 +1,198 @@
+                              Middleware 2008
+
+              ACM/IFIP/USENIX 9th International Middleware Conference
+
+                              December 1-5, 2008
+                                Leuven, Belgium
+
+                      http://middleware2008.cs.kuleuven.be/
+
+
+                               CALL FOR PAPERS
+
+
+The Middleware conference is a forum for the discussion of important innovations
+and recent advances in the design, construction and uses of middleware.
+Middleware is distributed-systems software that resides between the applications
+and the underlying operating systems, network protocol stacks, and hardware. Its
+primary role is to functionally bridge the gap between application programs and
+the lower-level hardware and software infrastructure in order to coordinate how
+application components are connected and how they interoperate.
+
+Following the success of past conferences in this series, the 9th International
+Middleware Conference will be the premier event for middleware research and
+technology in 2008. The scope of the conference is the design, implementation,
+deployment, and evaluation of distributed system platforms and architectures for
+future computing and communication environments. Highlights of the conference
+will include a high quality technical program, invited speakers, an industrial
+track, poster and demo presentations, a doctoral symposium, and workshops.
+
+Submissions on a diversity of topics are sought, particularly ones that identify
+new research directions. The topics of the conference include, but are not
+limited to:
+
+Platforms and Architectures:
+* Middleware for Web services and Web-service composition
+* Middleware for cluster and grid computing
+* Peer-to-peer middleware solutions
+* Event-based, publish/subscribe, and message-oriented middleware
+* Communication protocols and architectures
+* Middleware for ubiquitous and mobile computing
+* Middleware for embedded systems and sensor networks
+* Middleware for next generation telecommunication platforms
+* Semantic middleware
+* Service-oriented architectures
+* Standard middleware architectures
+* Reconfigurable, adaptable, and reflective middleware approaches
+
+Systems issues:
+* Advanced middleware support for high confidence dynamic integrated systems
+* Reliability, fault tolerance, and quality-of-service in general
+* Scalability of middleware: replication and caching
+* Systems management, including solutions for autonomic and self-managing middleware
+* Middleware feedback control solutions for self-regulation
+* Real-time solutions for middleware platforms
+* Information assurance and security
+* Evaluation techniques for middleware solutions
+* Middleware support for multimedia streaming
+* Middleware solutions for (large scale) distributed databases
+
+Design principles and tools:
+* Formal methods and tools for designing, verifying, and evaluating middleware
+* Model-driven architectures
+* Software engineering for middleware
+* Engineering principles and approaches for middleware
+* Novel development paradigms, APIs, and languages
+* Existing paradigms revisited: object models, aspect orientation, etc.
+* On-the-fly management and configuration of middleware
+
+The conference also strongly encourages submission of industry-focused and use
+case studies; full papers should be submitted to the main program, where they
+will be reviewed using appropriate criteria (e.g. emphasizing experience and
+system evolution), and accepted papers will be published in the main conference
+proceedings. Additionally, short industry-focused papers may be submitted to a
+special  industrial track (see http://middleware2008.cs.kuleuven.be/); accepted
+short papers will be presented at the conference and published in the ACM
+Digital Library.  Details on the industrial track will be available shortly.
+Note that submissions to the main program may indicate a willingness to be
+referred to the industrial track if a paper is not accepted to the main
+program.
+
+Proceedings:
+------------
+
+The proceedings of Middleware 2008 will be published as a Springer-Verlag volume
+in the Lecture Notes in Computer Science Series.
+
+Submission Guidelines: 
+----------------------
+
+Papers must not exceed 20 pages, including abstract, all figures, all tables,
+and references. Papers should include a short abstract and up to 6 keywords.
+Submitted papers should follow the formatting instructions of the Springer LNCS
+Style (please check the Information for Authors page at Springer at 
+http://www.springer.de/comp/lncs/authors.html for style and formatting
+guidelines).
+
+Submitted papers may not be submitted for conference publication, journal
+publication, or be under review for any other conference or journal. For any
+questions regarding this matter, please contact the program chairs.
+
+Submissions will be handled via the conference management system (see
+http://middleware2008.cs.kuleuven.be/). 
+
+Important dates:
+----------------
+
+**Note that deadlines will not be extended**
+
+23 April 2008      -	Abstract registration (hard deadline)
+30 April 2008      -	Paper submission (hard deadline)
+16 July 2008       -	Acceptance notification
+31 August 2008     -	Camera ready copy due
+1 December 2008    -	Conference begins
+
+Organization:
+-------------
+
+Conference Chairs
+- Wouter Joosen (KUL-DistriNet, BE)
+- Yolande Berbers (KUL-DistriNet, BE)
+
+PC Chairs
+- Valerie Issarny (INRIA, FR)
+- Rick Schantz (BBN, US)
+
+Workshop & Tutorials Chairs
+- Frank Eliassen (Univ. of Oslo , NO)
+- Hans-Arno Jacobsen (Univ. of Toronto, Canada)
+
+Industry Chair
+- Fred Douglis (IBM, US)
+
+Work In Progress Chair
+- Cecilia Mascolo (Univ. of Cambridge, UK) 
+
+Publicity Chairs
+- Michael Atighetchi (BBN, US)
+- Sonia Ben Mokhtar (UCL, UK)
+
+Posters and Demos Chair
+- Bert Lagaisse (KUL, BE)
+
+Doctoral Symposium Chair
+- Sam Michiels (KUL, BE)
+
+Local Arrangements Chair
+- Davy Preuveneers (KUL, BE)
+
+Programme Committee
+-------------------
+
+Gustavo Alonso (ETH Zurich, Switzerland) 
+Christiana Amza (University of Toronto, Canada) 
+Jean Bacon (University of Cambridge, UK) 
+Dave Bakken (Washington State University, USA) 
+Guruduth Banavar (IBM Research, India) 
+Alberto Bartoli (University of Trieste, Italy) 
+Christian Becker (Universitat Mannheim, Germany) 
+Gordon Blair (Lancaster University, UK) 
+Roy H Campbell (University of Illinois at Urbana Champaign, USA) 
+Renato Cerqueira (PUC-Rio, Brazil) 
+Angelo Corsaro (PrismTech, USA) 
+Paolo Costa (Vrije Universiteit Amsterdam, Netherlands) 
+Geoff Coulson (Lancaster University, UK) 
+Jan De Meer (SmartSpaceLab, Germany) 
+Fred Douglis (IBM T.J. Watson Research Center, USA) 
+Naranker Dulay (Imperial College London, UK) 
+Frank Eliassen (University of Oslo, Norway) 
+Markus Endler (PUC-Rio, Brazil) 
+Pascal Felber (University of Neuchatel, Switzerland) 
+Paulo Ferreira (INESC ID / Tech. Univ. of Lisbon, Portugal) 
+Nikolaos Georgantas (INRIA, France) 
+Chris Gill (Washington University, USA) 
+Paul Grace (Lancaster University, UK) 
+Indranil Gupta (University of Illinois at Urbana-Champaign, USA) 
+Qi Han (Colorado school of Mines, USA) 
+Peter Honeyman (CITI, University of Michigan, USA) 
+Gang Huang (Peking University, China) 
+Shanika Karunasekera (University of Melbourne, Australia) 
+Bettina Kemme (McGill University, Canada) 
+Fabio Kon (University of Sao Paulo, Brazil) 
+Doug Lea (Oswego State University, USA) 
+Rodger Lea (University of British Columbia, Canada) 
+Mark Linderman (Air Force Research Laboratory, USA) 
+Joe Loyall (BBN Technologies, USA) 
+Cecilia Mascolo (University of Cambridge, UK) 
+Satoshi Matsuoka (Tokyo Institute of Technology, Japan) 
+Elie Najm (ENST Paris, France) 
+Bala Natarajan (Symantec Corp., India) 
+Gian Pietro Picco (University of Trento, Italy) 
+Alexander Reinefeld (Zuse Institute Berlin, Germany) 
+Luis Rodrigues (INESC-ID/IST, Portugal) 
+Antony Rowstron (Microsoft Research, UK) 
+Douglas C. Schmidt (Vanderbilt University, USA) 
+Jean-Bernard Stefani (INRIA, France)
+Gautam Thaker (Lockheed Martin Adv. Tech. Labs, USA)
+Peter Triantafillou (University of Patras, Greece) 
+Apostolos Zarras (University of Ioannina, Greece)

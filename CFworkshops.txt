@@ -1,0 +1,49 @@
+MIDDLEWARE08: Call for Workshop Proposals
+
+The Middleware conference traditionally includes a number of high quality
+workshops which are co-hosted with the conference. In order to continue this
+tradition, Middleware 2008 is soliciting proposals for 1-day workshops. Proposed
+workshops can be on any topic related to middleware, but we are particularly
+seeking new workshops in emerging new middleware areas.
+This year's workshops will be scheduled on December 1 and December 2, 2008.
+
+The workshop proposal (not exceeding three pages) should include the following 
+information:
+
+* The title of the workshop
+* A technical description of the workshop topic area
+* A short description of the intended length and format of the workshop
+* A brief statement of the relevance of the workshop to Middleware
+* The names and e-mail addresses of the organizing committee
+* A list of proposed program committee members
+
+Each workshop will organize their own publicity, submissions and refereeing
+procedures, and provide their own web page. A link will be provided to this web
+page from the Middleware 2008 web site.  The workshop organizers will apply the
+schedule outlined below. The organizers of the workshop will ensure that all
+accepted papers are peer reviewed. Accepted papers should be no longer than 6
+pages in the standard ACM format. Notice that workshop organizers are
+responsible to prepare the papers for their workshops in the form required by
+ACM.  As in previous years the Middleware conference organizers will provide
+companion proceedings covering all workshops and plan to make all workshop
+papers available in the ACM Digital Library. Camera-ready papers will be
+required by October 8 2008.
+
+The conference organizers aim for a common timeline for all workshops, which is
+presented below.
+Schedule:
+
+April 15       Workshop proposal submission due date
+May 1          Workshop proposal acceptance notification
+May 15         Call for Workshop papers available
+August 1       Workshop paper submission due date
+September 15   Workshop paper acceptance notification
+October 8      Camera ready workshop papers due date
+
+Any further question can be addressed to WorkshopQuestions@middleware2008.cs.kuleuven.be
+Please send workshop proposal submissions to WorkshopSubmissions@middleware2008.cs.kuleuven.be
+
+Middleware 2008 Workshop & Tutorials Chairs
+- Frank Eliassen (Univ. of Oslo, NO)
+- Hans-Arno Jacobsen (Univ. of Toronto, Canada)
+

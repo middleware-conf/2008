@@ -1,0 +1,64 @@
+MIDDLEWARE08: Call for Industrial Track Papers
+
+*Industrial Track*
+
+The Industrial Track of the Middleware 2008 Conference solicits 
+papers for presentation at the conference and inclusion in the ACM 
+Digital Library.  The topics of interest are similar to those in the 
+general conference call for papers.  However, the purpose of the 
+Industrial Track is to emphasize practical experience and to disseminate 
+information of particular interest to developers and others involved 
+in real-world systems.  Examples of these key areas include: 
+
+    * Issues regarding practical deployments
+    * Interoperability and middleware standards
+    * System evolution
+    * Open source implementations of middleware technologies
+    * Performance studies and improvements  of real-world systems
+    * Issues of scalability
+    * Issues of availability and robustness
+    * Usability, effectiveness and acceptance under real system/project/
+      operating constraints
+    * Other kinds of experience reports
+
+
+Submissions should be made using the conference submission system at
+http://cyberchairpro3.borbala.net/mwindustrypapers/submit/, indicating 
+the papers are submitted to the Industrial Track.  Note that full 
+papers may be submitted to the general conference with the option 
+to provide the submission, with reviews, to the Industrial Track in the 
+event it is found to be inappropriate for the general conference tracks. 
+In that case, an accepted Industrial Track paper will have to be 
+shortened before appearing in the Digital Library.  
+
+Key deadlines:
+6 July 2008                  Paper submission (deadline extended)
+18 August 2008               Acceptance notification
+19 September 2008            Final version due
+1 December 2008              Conference begins
+
+Papers must not exceed 10 pages, including abstract, all figures, all
+tables, and references. Papers should include a short abstract and up to
+6 keywords. Submitted papers should follow the formatting instructions
+of the Springer LNCS Style (please check the Information for Authors
+page at Springer at _http://www.springer.de/comp/lncs/authors.html_ for
+style and formatting guidelines).
+
+Submitted papers may not be submitted for conference publication,
+journal publication, or be under review for any other conference or
+journal. For any questions regarding this matter, please contact the
+track chair
+
+*Industrial Track Chair*:
+
+Fred Douglis, IBM T.J. Watson Research Center,
+fdouglis(at-and-about)us.ibm.com
+
+*Track Program Committee*:
+
+- François Exertier, Bull
+- Dejan Milojicic, HP Labs
+- Partha Pal, BBN
+- John Reumann, Google
+- Isabelle Rouvellou, IBM T.J. Watson Research Center
+- Thierry Pollet, Alcatel Lucent
